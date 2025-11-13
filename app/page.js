@@ -1,4 +1,3 @@
-=== FILE: app/page.js ===
 export default function Home() {
   return (
     <div className="animate-fade-in">
