@@ -1,6 +1,6 @@
 import { Inter } from 'next/font/google'
 import '../styles/globals.css';
-import CookieBanner from '@/components/CookieBanner'
+import CookieBanner from '../components/CookieBanner';
 
 const inter = Inter({ subsets: ['latin'] })
 
