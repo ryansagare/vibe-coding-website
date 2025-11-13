@@ -1,4 +1,3 @@
-=== FILE: README.md ===
 # Vibe Coding Website
 
 A modern, responsive website explaining the concept of vibe coding - an intuitive, flow-state approach to software development powered by AI assistance.
